@@ -1,0 +1,9 @@
+{
+  "source": "examples\\dragon_roar\\det.npz",
+  "source_sha256": "d8c82be8fe353474c406e4b12d2cba3a2941fb6b7785f0d3b4ce0f9a0125bdcd",
+  "rig_sha256": "14945860ba49e65b17b6e505571528eb2d9e86f721929885c39201d6f0d22637",
+  "frame": 48,
+  "frames": 124,
+  "joints": 50,
+  "kind": "bundled raw detections; no model generation, fitting, training or paid API calls"
+}
