@@ -1,0 +1,25 @@
+{
+  "tool": "anymove",
+  "date": "2026-10-29",
+  "source_revision": "7a82a0a8fadffddd5c24fabf0697d9b6c814ce6e",
+  "brand": {
+    "file": "brand.png",
+    "kind": "AI-generated concept branding",
+    "generator": "built-in image_gen",
+    "prompt": "Use case: logo-brand. Asset type: wide 16:9 concept banner for the Stonefletcher fork of 'anymove', an upstream open-source creature motion-capture pipeline by Patch.gg. Use a cohesive near-black blue-grey Stonefletcher tool-family studio treatment, matte dimensional sculptural emblem, cool blue rim and restrained ember-orange light. Symbolic emblem: a simple jointed four-legged creature skeleton in a circular motion arc, abstract and elegant, no actual dragon model or product screenshot. Exact main title 'anymove'. Exact subtitle 'Creature motion capture'. Exact credit footer 'Stonefletcher fork · Upstream: Patch.gg'. Additional tiny text 'Concept artwork'. Readable white contemporary typography, generous crop-safe margins. Do not claim original authorship, do not use a Patch.gg logo, no fake software UI or performance claims.\n",
+    "sha256": "f0f8ae5a5914de3fce5e703793db5dc4f8a30c3b2aa0156f8bcfdb50b365f12b"
+  },
+  "capture": {
+    "file": "detections.png",
+    "kind": "raw-data visualization",
+    "notes": "Fresh visualization of bundled raw detections at frame 48 of 124; not a screenshot, new inference, solve or animation. Upstream Patch.gg / CanItCode credit retained.",
+    "sha256": "62cd99637cf87c51a341ac7d3d11216b77a55a417f86a1eb8cef166ff11ecbfa"
+  },
+  "website": {
+    "brand": "anymove-brand.jpg",
+    "capture": "anymove-detections.png",
+    "brand_sha256": "f2e77791a12aa086aa6664bb0853527b52438816b68cbfb3192f972fcf98b4ea",
+    "capture_sha256": "62cd99637cf87c51a341ac7d3d11216b77a55a417f86a1eb8cef166ff11ecbfa"
+  },
+  "upstream": "https://github.com/Patch-gg/anymove"
+}

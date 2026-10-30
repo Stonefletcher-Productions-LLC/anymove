@@ -19,6 +19,12 @@ The method is [@CanItCode](https://www.youtube.com/watch?v=AS92HYsEBqo)'s; the M
 [@Graalitoo](https://x.com/Graalitoo/status/2112548557576380659)'s idea. This repo is our working version of both, with
 the agent skills to run it.
 
+## Refreshed visuals
+
+![anymove concept branding](marketing/refresh/brand.png)
+
+[Fresh interface capture and image sources](marketing/refresh/README.md). Fresh visualization of bundled raw detections at frame 48 of 124; not a screenshot, new inference, solve or animation. Upstream Patch.gg / CanItCode credit retained.
+
 ## how it works.
 
 | | |
